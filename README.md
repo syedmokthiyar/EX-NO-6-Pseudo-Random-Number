@@ -1,10 +1,10 @@
 # EX-NO-6-Pseudo-Random-Number
 
-# AIM: 
+## AIM: 
 
 Implementation of Pseudorandom Number Generation Using Standard library
 
-# ALGORITHM:
+## ALGORITHM:
 Step 1:
 Get the number of random numbers to generate from the user.
 
@@ -25,7 +25,7 @@ Print each generated random number.
 
 Step 7:
 End the program.
-# PROGRAM:
+## PROGRAM:
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -52,8 +52,8 @@ int main()
 }
 ```
 
-# OUTPUT:
+## OUTPUT:
 ![Screenshot 2024-10-21 082946](https://github.com/user-attachments/assets/464fd8be-487f-4a13-8e18-c26b2e9c2bd4)
 
-# RESULT:
+## RESULT:
 Thus Pseudorandom Number Generation Using Standard library has been executed successfully
